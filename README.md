@@ -29,7 +29,7 @@
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://wa.me/5511981768138">
-      <img width="35" src="whatsapp.svg">
+      <img width="25" src="whatsapp.svg">
     </a>
     <a href = "https://www.instagram.com/hermenegildograca2/">
       <img width="25" src="instagram.png">
